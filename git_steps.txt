@@ -1,4 +1,6 @@
 steps to include git:-
-1.create a repo
-2.clone the repo through https key
-3.
+1.create a git repo
+2.create a token
+3.clone the repo through https key
+4.add the files for commiting
+5.commit the changes
